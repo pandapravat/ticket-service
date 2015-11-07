@@ -1,0 +1,8 @@
+/bin/
+/build/
+/ticket-service.log
+/target/
+/.classpath
+/.project
+/.gradle/
+/.settings/
