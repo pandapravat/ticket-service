@@ -1,4 +1,9 @@
-Ticket Service(requirements in src/main/resources directory)
+
+Requirements
+-------------
+requirements in src/main/resources directory
+
+Ticket Service
 --------------
 Assumptions
  1. For simplicity, no frameworks has been used.
