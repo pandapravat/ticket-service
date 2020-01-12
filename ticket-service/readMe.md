@@ -26,5 +26,6 @@ After the application is built, it will create a distribution.
  1. Navigate to the "build/distributions" directory
  2. Unzip the file "ticket-service-1.0-RELEASE.zip"
  3. Navigate to the bin directory and the run the "ticket-service" file (for *nix based systems) or "ticket-service.bat" (for windows based systems
+ 4. Done
  
 
